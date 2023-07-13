@@ -1,4 +1,11 @@
-### Hi there 👋
+### hey welcome to my profile 👋
+
+I first created a GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed so i just abandon this GitHub account, probably.
+
+- 👤 I'm not a coder, just an ordinary kid using Internet.
+- 🌐 Stay connected with me: Visit my linktr.ee for all my Social Media
+
+Thanks for checking by ;)
 
 <!--
 **starshyosu/starshyosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
