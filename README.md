@@ -6,7 +6,7 @@ I first created a GitHub account to create a Music Bot on Discord, back on 15.03
 - 🌐 Stay connected with me: Visit my linktr.ee for all my Social Media
 - 🌱 I'm currently learning **nothing**
 
-
+(if you want to talk with me, please use Bahasa Indonesia)
 
 Thanks for checking by ;)
 
