@@ -3,10 +3,11 @@
 I first created a GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed so i just abandon this GitHub account, probably.
 
 - 👤 I'm not a coder, just an ordinary kid using Internet.
-- 🌐 Stay connected with me: Visit my linktr.ee for all my Social Media
+- 🌐 Stay connected with me: Visit my [linktr.ee](https://linktr.ee/reStarshyy/) for all my Social Media
 - 🌱 I'm currently learning **nothing**
 
-(if you want to talk with me, please use Bahasa Indonesia)
+
+      - (if you want to talk with me, please use Bahasa Indonesia)
 
 Thanks for checking by ;)
 
