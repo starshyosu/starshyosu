@@ -1,13 +1,13 @@
 ### hey welcome to my profile 👋
 
-I first created a GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed so i just abandon this GitHub account, probably.
+I first created this GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed, and i'll make this GitHub page as my Portofolio sometime in the future.
 
-- 👤 I'm not a coder, just an ordinary kid using Internet.
-- 🌐 Stay connected with me: Visit my [linktr.ee](https://linktr.ee/reStarshyy/) for all my Social Media
-- 🌱 I'm currently learning **nothing**
+- 👤 I'm not a coder.
+- 🌐 Stay connected with me: Visit my linktr.ee at the link of my page.
+- 🌱 Motto? Even though i felt like i'm failed, i realized that i'm learning everyday.
 
 
-      - (if you want to talk with me, please use Bahasa Indonesia)
+      - (please talk to me in Bahasa, my english is kinda bad.)
 
 Thanks for checking by ;)
 
