@@ -1,11 +1,13 @@
-### hey welcome to my profile 👋
+### Welcome to my profile, or probably, Portofolio👋
 
-I first created this GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed, and i'll make this GitHub page as my Portofolio sometime in the future.
+Long story short, I first created this GitHub account to create a Music Bot on Discord, back on 15.03.2018, but it was failed, and i'll make this GitHub page as my Portofolio sometime in the future.
 
 - 👤 I'm not a coder.
 - 🌐 Stay connected with me: Visit my linktr.ee at the link of my page.
 - 🌱 Motto? Even though i felt like i'm failed, i realized that i'm learning everyday.
 
+Portofolio :
+Staff — Kakumei no Toki : Was once a staff member at an event organizer called Karasu Invasion (now Murasame Society).
 
       - (please talk to me in Bahasa, my english is kinda bad.)
 
