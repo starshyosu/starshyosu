@@ -4,10 +4,9 @@ Long story short, I first created this GitHub account to create a Music Bot on D
 
 - 👤 I'm not a coder.
 - 🌐 Stay connected with me: Visit my linktr.ee at the link of my page.
-- 🌱 Motto? Even though i felt like i'm failed, i realized that i'm learning everyday.
+- 🌱 I'm currently a student who learning everyday.
 
-Portofolio :
-Staff — Kakumei no Toki : Was once a staff member at an event organizer called Karasu Invasion (now Murasame Society).
+If you want to check my Portofolio, you can check my Linktr.ee and LinkedIn.
 
       - (please talk to me in Bahasa, my english is kinda bad.)
 
